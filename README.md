@@ -1,1 +1,2 @@
-# ppads-tick-task
+# Projeto de Prática Profissional em ADS
+## Individual 
