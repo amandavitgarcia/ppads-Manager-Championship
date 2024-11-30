@@ -3,9 +3,6 @@
 
 Link Aplicação: https://react-ads-loko.herokuapp.com/
 
-Username: amandappads
-Password: amandappads
-
 Pontos importantes:
 
 Não acessar a aplicação com a opção do navegador “DNS Seguro” habilitada.
