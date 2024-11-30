@@ -3,10 +3,8 @@
 
 Link Aplicação: https://react-ads-loko.herokuapp.com/
 
-Vídeo de apresentação: 
-Username: jhonatan91
-
-Password: jhonatan91
+Username: amandappads
+Password: amandappads
 
 Pontos importantes:
 
@@ -15,10 +13,6 @@ Não acessar a aplicação com a opção do navegador “DNS Seguro” habilitad
 Não acessar a aplicação com a opção do navegador “HTTPS” – Conexões
 
 Essas limitações se devem ao fato do Back-End e Banco de Dados estarem hospedados no provedor cloud Azure, vinculado a um plano de uso de estudante. Nesse sentido, o Azure por padrão não habilita o protocolo de comunicação SSL e TTL para esse tipo de plano de uso, bloqueando qualquer chamada que seja feita a aplicação utilizando um protocolo seguro.
-
-Desabilitando essas opções no navegador Chrome:
-
-PRINT DAS OPÇÕES NO CHROME:
 
 Limitações do Sistema:
 
